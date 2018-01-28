@@ -19,5 +19,5 @@
   4. PR4 (MA_WB)
   
   ----------------------------------------------------------------------------------------------------------------------------
-   ![ Pipelined Processor](https://github.com/sanketny8/Pipelined_Processer_RISC_32_Verilog/blob/master/500px-Pipeline_MIPS.png)
+   ![Pipelined Processor](https://github.com/sanketny8/Pipelined_Processer_RISC_32_Verilog/blob/master/500px-Pipeline_MIPS.png)
 
